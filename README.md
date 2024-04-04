@@ -1,4 +1,4 @@
-# Email Subject and Date Extractor: Excel & Outlook (Using Unique Search Query)
+# Email Subject and Date Extractor: Excel & Outlook - Macro (Using Unique Search Query)
 
 ## Overview
 This Excel VBA macro module enhances productivity by searching through a designated Outlook email folder for messages that match each selected cell's content in Excel. It then logs the subject and sent date of the first found email back into Excel, facilitating quick reference and data management tasks.
